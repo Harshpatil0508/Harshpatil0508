@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Harshvardhan 
-- 👀 I’m interested in cloud computing 
+- 👀 I’m interested in cloud computing and machine Learning 
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on backend projects
 
 <!---
 Harshpatil0508/Harshpatil0508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
