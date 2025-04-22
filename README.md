@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Harshvardhan 
 - 👀 I’m interested in cloud computing and machine Learning 
-- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on backend projects
 
 <!---
