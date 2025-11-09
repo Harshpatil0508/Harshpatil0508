@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Harshvardhan 
-- 👀 I’m interested in cloud computing and machine Learning 
+- 👋 Hi, I’m Harshvardhan
+- 👀 I’m interested in cloud computing , machine Learning and Generative AI
 - 💞️ I’m looking to collaborate on backend projects
 
 <!---
