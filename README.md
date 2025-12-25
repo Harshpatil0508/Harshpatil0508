@@ -44,11 +44,5 @@ I'm Harshvardhan Patil, a Software Developer based in India with a strong focus 
 
 ---
 
-📊 GitHub Stats:
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshpatil0508&show_icons=true&theme=tokyonight)
-
-🏆 GitHub Trophies:
-![trophy](https://github-profile-trophy.vercel.app/?username=Harshpatil0508&theme=onedark&margin-w=10)
-
 ✍️ Random Dev Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
